@@ -1,0 +1,1 @@
+{"shortcut": "ctrl+shift+space", "api_key": "ollama", "api_url": "http://localhost:11434/v1/", "model": "llama3.2:latest", "max_tokens": 1000, "use_direct_insertion": true, "minimize_to_tray": true}
