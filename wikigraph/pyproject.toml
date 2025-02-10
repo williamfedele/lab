@@ -1,0 +1,7 @@
+[project]
+name = "wikigraph"
+version = "0.1.0"
+description = "Attempt to open Wikipedia in Obsidian graph view."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
